@@ -1,0 +1,246 @@
+.main-body {
+  background: linear-gradient(#ff8f3a, #ffec49);
+}
+
+#lefter {
+  position: fixed;
+  background: #272428;
+  width: 200px;
+  max-width:200px;
+  word-wrap: break-word;
+  height: 100% ;
+}
+
+/*#header {
+  background: #f9efff;
+}
+
+#title {
+  background: #f9efff;
+}
+
+#subtitle {
+  background: #f9efff;
+}*/
+
+#quote-div {
+/*  vertical-align: auto;*/
+}
+
+#quote {
+  text-align: center;
+  color: white;
+  position: relative;
+  font-family: 'Roboto Slab', serif;
+  margin: auto;
+  margin-top: 150%;
+  /*vertical-align: auto;*/
+}
+
+/*div {
+  border-style: solid;
+  border-color: black;
+  border-width: 1px
+}
+*/
+.main-div {
+  margin: auto;
+  width: 75%;
+  display: block;
+  margin-left: 200px;
+}
+
+#profile-pic {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  display: block;
+  margin: auto;
+}
+
+#profile-pic > img {
+  border-radius: 50%
+  height: 150px;
+  width: 150px;
+  display: block;
+  margin: auto;
+/*  display: inline-block;*/
+}
+
+#title {
+  display: block;
+}
+
+#subtitle {
+  display: block;
+}
+
+h1 {
+  text-align: center;
+  margin: 20px 20px 5px 20px;
+  font-family: 'Roboto Slab', serif;
+}
+
+h3 {
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  font-size: 20px;
+  font-family: 'Roboto Slab', serif;
+  font-style: italic;
+}
+
+.social-div {
+  display: inline-block;
+  width: 32.4%;
+/*  height: 50px;*/
+/*  margin: 0px 0px 0px 0px;*/
+  border-color: purple;
+}
+
+#social-div-head {
+  padding: 0px 0px 0px 0px ;
+  margin-left: 360px ;
+}
+
+.social {
+  font: helvetica;
+  color: #323233;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.social-div-2 {
+  display: inline-block;
+  float: auto;
+
+}
+
+#facebook-icon {
+/*  font-size: 40px;*/
+  float: left;
+  display: inline-block;
+  /*border-style: solid ;
+  border-color: black;*/
+  margin-top: 15px;
+  font-size: 40px;
+  color: #323233;
+/*  10px 10px 10px 10px;*/
+}
+
+#facebook-icon:hover {
+  color: purple;
+}
+
+#twitter-icon {
+/*  font-size: 40px;*/
+  float: left;
+  display: inline-block;
+  /*border-style: solid ;
+  border-color: black;*/
+  margin-top: 15px;
+  font-size: 40px;
+  color: #323233;
+/*  10px 10px 10px 10px;*/
+}
+
+#twitter-icon:hover {
+  color: purple;
+}
+
+#github-icon {
+/*  font-size: 40px;*/
+  float: left;
+  display: inline-block;
+  /*border-style: solid ;
+  border-color: black;*/
+  margin-top: 15px;
+  font-size: 40px;
+  color: #323233;
+/*  10px 10px 10px 10px;*/
+}
+
+#github-icon:hover {
+  color: purple;
+}
+
+#bio-div {
+  border-top: 2px solid black;
+}
+
+#bio {
+  font-size: 18px;
+  font-color: #323233;
+  font-family: 'Roboto Slab', serif;
+  margin-top: 20px;
+  margin-left: 15px;
+
+}
+
+#likes-title {
+  font-size: 30px;
+  font-color: #323233;
+  font: helvetica;
+  horizontal-align: center;
+  text-align: center;
+  font-style: italic;
+  font-family: 'Roboto Slab', serif;
+}
+
+#likes-title-div {
+  border-bottom: 2px solid black;
+}
+
+.tip {
+  font-style: bolder;
+  font-size: 25px;
+  font: comic;
+  display: inline-block;
+  float: right;
+  font-family: 'Roboto Slab', serif;
+}
+
+.tip-desc {
+  font-size: 18px;
+  display: inline-block;
+  font-family: 'Roboto Slab', serif;
+  padding-left: 30px;
+}
+
+.tip-img {
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  display: inline-block;
+  margin: auto;
+  padding-left: 30px;
+  padding-top: 15px;
+}
+
+
+.tip-img > img {
+  border-radius: 50%
+  height: 150px;
+  width: 150px;
+  display: inline-block;
+  margin: auto;
+/*  display: inline-block;*/
+}
+
+.tips {
+  border-bottom: 2px solid black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
